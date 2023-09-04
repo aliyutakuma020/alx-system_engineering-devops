@@ -1,0 +1,2 @@
+#!/bin/bash
+count=$(ls -1d */ | wc -l)
