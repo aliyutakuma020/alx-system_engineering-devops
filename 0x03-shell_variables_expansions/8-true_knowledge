@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Result\n: $((TRUEKNOWLEDGE + 128))"\n
+echo $((128 + TRUEKNOWLEDGE))
